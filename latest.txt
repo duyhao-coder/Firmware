@@ -1,0 +1,1 @@
+firmwareV1@0.bin
