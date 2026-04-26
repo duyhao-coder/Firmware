@@ -1,1 +1,1 @@
-firmwareV1@0.bin
+firmwareV1@1.bin
